@@ -1,4 +1,4 @@
-# Simon-says-game
+# Simon-says-game (MEMORY GAME)
 This is simon says game designed by me using HTML,CSS and JAVASCRIPT..
 
 How to play?
