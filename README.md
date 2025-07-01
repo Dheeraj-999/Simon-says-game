@@ -14,3 +14,6 @@ Click the buttons in the same order.
 Each level adds a new color to the sequence.
 
 Make one mistake and... Game Over!
+
+![image](https://github.com/user-attachments/assets/80b69ff5-2bef-4c40-9edc-f3057aa68c2b)
+
