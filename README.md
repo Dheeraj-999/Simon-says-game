@@ -1,9 +1,9 @@
-# Simon-says-game (MEMORY GAME)
+# Simon-says-game (🧠🎮 MEMORY GAME)
 This is simon says game designed by me using HTML,CSS and JAVASCRIPT..
 
 How to play?
 
-🟢 How to Play Simon Says
+#🟢 How to Play Simon Says
 
 Press any key to start the game.
 
