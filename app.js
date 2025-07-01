@@ -1,3 +1,4 @@
+//JAVASCRIPT CODE FOR SIMON SAYS GAME:-
 let gameSeq=[];
 let userSeq=[];
 let started=false;
@@ -58,11 +59,11 @@ if(gameSeq[Idx]===userSeq[Idx]){
         setTimeout(levelUp,1000);
     }
 } else {
-   h2.innerHTML=`Game Over! Your score is ${level-1} <br>Press any key to start again`;
-//    document.querySelector("body").style.backgroundColor="red";
-//    setTimeout(function(){
-//    document.querySelector("body").style.backgroundColor="white";
-//    },700);
+   h2.innerHTML=`Game Over! Your score is ${level-1} <br>Press any key to start again`; 
+   document.body.classList.add("game-over");
+setTimeout(function(){
+  document.body.classList.remove("game-over");
+}, 700);
    reset();
 }
 }
