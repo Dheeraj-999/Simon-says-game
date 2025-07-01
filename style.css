@@ -4,6 +4,12 @@ background: linear-gradient(135deg, #fceabb 0%, #f8b500 100%);
   min-height: 100vh;
   margin: 0;
 }
+
+
+
+  /* background: linear-gradient(135deg, #fceabb 0%, #f8b500 100%); */
+
+
 .btn{
   height: 200px;
   width: 200px;
@@ -34,6 +40,10 @@ background: linear-gradient(135deg, #fceabb 0%, #f8b500 100%);
 
 .userflash{
   background-color: green;
+}
+
+body.game-over {
+  background: red !important;
 }
 
 
